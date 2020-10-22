@@ -1,0 +1,37 @@
+.dark-mode-nav{
+	background-color:#1A1A1B;
+	color:#D7DADC;
+}
+
+.dark-mode-nav button{
+	border-radius:2px;
+	border:#424243 1px solid;
+}
+
+.dark-mode-nav button:hover{
+	color:#D7DADC;
+}
+
+a.dark-mode-nav.hover:hover{
+	background-color:#D7DADC;
+}
+
+a.dark-mode-nav:hover{
+	color:#3490dc;
+}
+
+.nav-dark-border{
+	border-bottom: #343536 1px solid;
+}
+
+body.dark-mode{
+	background-color:#030303;
+}
+
+.dark-mode{
+	background-color:#343a40;
+}
+
+.card-header.dark-mode{
+	color:white;
+}
